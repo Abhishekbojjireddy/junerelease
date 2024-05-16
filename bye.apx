@@ -1,5 +1,6 @@
 public class release{
   public void saybye(){
     system.debug('bye git');
+    system.debug('its me');
 }
 }
