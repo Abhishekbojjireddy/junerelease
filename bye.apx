@@ -2,4 +2,10 @@ public class release{
   public void saybye(){
     system.debug('bye git');
 }
+	public void sub(){
+		integer a=10;
+		integer b=20;
+		integer res=a-b;
+		system.debug(res);
+	}
 }
